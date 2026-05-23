@@ -1,0 +1,33 @@
+{
+  "name": "Guardian X5",
+  "short_name": "GuardianX5",
+  "description": "Système de surveillance IA - Robot autonome",
+  "start_url": "/guardian-x5/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#080c10",
+  "background_color": "#080c10",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["utilities", "productivity"],
+  "shortcuts": [
+    {
+      "name": "Contrôle Robot",
+      "url": "/guardian-x5/",
+      "description": "Piloter le robot"
+    }
+  ]
+}
